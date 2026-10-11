@@ -1,6 +1,6 @@
 {
   "name": "pi-cpa-quota",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Pi extension: Codex and Claude subscription quota from cpa-quota-api (CLIProxyAPI) in the status bar and a /quota overlay.",
   "type": "module",
   "keywords": [
